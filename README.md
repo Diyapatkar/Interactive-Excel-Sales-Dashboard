@@ -47,3 +47,15 @@ This project demonstrates how Excel dashboards and SQL queries can work together
 
 ## 👨‍💻 Skills Demonstrated
 Excel, Data Cleaning, PivotTables, PivotCharts, Dashboard Design, SQL Queries, Aggregations, GROUP BY, CTEs, Window Functions, Data Quality Checks, Business Analysis, and Data Visualization.
+
+## 📸 Dashboard Screenshots
+
+### Interactive Sales Dashboard
+![Interactive Excel Sales Dashboard](Screenshots/Dashboard.png)
+
+### Sales and Profit Analysis
+![Sales and Profit Analysis](Screenshots/Sales_Profit_Analysis.png)
+
+### Interactive Filters
+![Interactive Dashboard Filters](Screenshots/Interactive_Filters.png)
+
