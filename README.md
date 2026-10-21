@@ -51,11 +51,8 @@ Excel, Data Cleaning, PivotTables, PivotCharts, Dashboard Design, SQL Queries, A
 ## 📸 Dashboard Screenshots
 
 ### Interactive Sales Dashboard
-![Interactive Excel Sales Dashboard](Screenshots/Dashboard.png)
-
-### Sales and Profit Analysis
-![Sales and Profit Analysis](Screenshots/Sales_Profit_Analysis.png)
+![Interactive Excel Sales Dashboard](Dashboard.png)
 
 ### Interactive Filters
-![Interactive Dashboard Filters](Screenshots/Interactive_Filters.png)
+![Interactive Dashboard Filters](Interactive_Filters.png)
 
