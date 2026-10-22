@@ -37,11 +37,6 @@ SQL Server was used to query the cleaned retail sales dataset and perform data q
 - Month-over-month sales growth.
 - Discount and profitability analysis.
 
-## 📁 Project Files
-- `Retail_Sales_Analytics.xlsx` — Excel dashboard and analysis.
-- `SQL_Analysis/` — SQL scripts for data quality checks and business analysis.
-- `Screenshots/` — Dashboard and query result screenshots.
-
 ## 📈 Business Value
 This project demonstrates how Excel dashboards and SQL queries can work together to turn raw retail data into useful business insights, support decision-making, and identify opportunities to improve profitability.
 
